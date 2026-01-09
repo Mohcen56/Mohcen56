@@ -1,31 +1,11 @@
-<!-- Header Wave (Commented Out)
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
-</div>
--->
 
-<!-- Footer Wave (Commented Out)
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
 
 <!-- MasterHead -->
 <a href="">
   <img width="1000" height="500" src="" alt="anime GIF"/>
 </a>
 
-<!-- Greeting -->
-<!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
+
 
 
 
@@ -35,7 +15,7 @@
   <a href="https://github.com/Mohcen56" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
   
-  <!--<img src="https://img.shields.io/badge/Profile%20Views-12,391-5e81ac?style=for-the-badge&logo=github" />-->
+
 
 
   <!-- Total Stars -->
