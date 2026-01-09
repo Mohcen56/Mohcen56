@@ -1,33 +1,14 @@
 
 
 <!-- MasterHead -->
-<a href="">
-  <img width="1000" height="500" src="" alt="anime GIF"/>
-</a>
 
 
 
 
 
-<div align="center">
-  <!-- Profile Views -->
-  
-  <a href="https://github.com/Mohcen56" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
-  
 
 
 
-  <!-- Total Stars -->
-  <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-
-  <!-- Followers -->
-  <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
-</div>
-
-<img align="left" alt="coding-gif" width="400" src="" />
 # 💫 About Me:
 👋 Hi, I'm a Software Engineering student & Full-Stack Developer<br>🔭 Founder of Trivia Spirit — a full-stack trivia web game {triviaspirit.com}<br>👯 Open to collaboration on web & SaaS pr[...]
 
