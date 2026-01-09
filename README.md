@@ -20,8 +20,8 @@
 -->
 
 <!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img width="1000" height="500" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/BEZEHEL.gif" alt="Fallout GIF"/>
+<a href="">
+  <img width="1000" height="500" src="" alt="anime GIF"/>
 </a>
 
 <!-- Greeting -->
@@ -32,7 +32,7 @@
 <div align="center">
   <!-- Profile Views -->
   
-  <a href="https://github.com/JoshuaThadi" target="_blank">
+  <a href="https://github.com/Mohcen56" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
   
   <!--<img src="https://img.shields.io/badge/Profile%20Views-12,391-5e81ac?style=for-the-badge&logo=github" />-->
