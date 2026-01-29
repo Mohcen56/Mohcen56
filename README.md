@@ -48,10 +48,10 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Connect With Me
 
 <div align="center">
-  <a href="mailto:djeidmohcen8@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/djeidmohcen" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  <a href="https://youtube.com/@mogen_tech?si=rEy0J4ncMba-8M4K" target="_blank"><img width="57px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
-  <a href="#"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/instagram.png" alt="Instagram" /></a>
+  <a href="mailto:djeidmohcen8@gmail.com"><img width="55px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/djeidmohcen" target="_blank"><img width="55px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@mogen_tech?si=rEy0J4ncMba-8M4K" target="_blank"><img width="57px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/youtube-red1.png" alt="YouTube" /></a>
+  <a href="#"><img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="Instagram" /></a>
 </div>
 
 <br>
@@ -105,7 +105,7 @@
 <br>
 
 <!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics
@@ -133,7 +133,7 @@
 <br>
 
 <!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Trophies -->
 ## 🏆 GitHub Trophies
