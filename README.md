@@ -46,7 +46,7 @@
 <!-- Connect -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="mailto:djeidmohcen8@gmail.com"><img width="55px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/djeidmohcen" target="_blank"><img width="55px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://youtube.com/@mogen_tech?si=rEy0J4ncMba-8M4K" target="_blank"><img width="57px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/youtube-red1.png" alt="YouTube" /></a>
@@ -60,7 +60,7 @@
 
 <table align="center">
 <tr>
-  <td align="center" width="140">
+  <td align="center" width="200">
     <strong>Languages</strong>
   </td>
   <td align="center">
@@ -68,7 +68,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center" width="140">
+  <td align="center" width="200">
     <strong>Frontend</strong>
   </td>
   <td align="center">
@@ -76,7 +76,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center" width="140">
+  <td align="center" width="200">
     <strong>Backend</strong>
   </td>
   <td align="center">
@@ -84,7 +84,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center" width="140">
+  <td align="center" width="200">
     <strong>Database</strong>
   </td>
   <td align="center">
@@ -92,7 +92,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center" width="140">
+  <td align="center" width="200">
     <strong>Tools</strong>
   </td>
   <td align="center">
