@@ -112,14 +112,14 @@
 
 <p align="center">
   <a href="https://github.com/Mohcen56">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohcen56&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=5e81ac&icon_color=bf616a&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohcen56&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=5e81ac&text_color=c9d1d9"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohcen56&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=5e81ac&icon_color=bf616a&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohcen56&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=5e81ac&text_color=c9d1d9"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Mohcen56">
-    <img src="https://streak-stats.demolab.com/?user=Mohcen56&theme=nord&hide_border=true&background=0D1117&stroke=5e81ac&ring=bf616a&fire=bf616a&currStreakLabel=5e81ac"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohcen56&theme=nord&hide_border=true&background=0D1117&stroke=5e81ac&ring=bf616a&fire=bf616a&currStreakLabel=5e81ac"/>
   </a>
 </p>
 
@@ -140,7 +140,7 @@
 
 <p align="center">
   <a href="https://github.com/Mohcen56">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohcen56&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+    <img src="https://github-trophies.vercel.app/?username=Mohcen56&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
   </a>
 </p>
 
