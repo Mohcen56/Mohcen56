@@ -58,7 +58,7 @@
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
-<table align="center" width="100%">
+<table align="left" width="100%">
 <tr>
   <td align="center" width="180">
     <strong>Languages</strong>
