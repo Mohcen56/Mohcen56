@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohcen%20Djeid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
@@ -23,6 +24,11 @@
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+=======
+
+
+<!-- MasterHead -->
+>>>>>>> f3276e8d1cac860dfe4eb7dbc9029553ad25d627
 
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
@@ -45,11 +51,15 @@ const mohcen = {
 };
 ```
 
+<<<<<<< HEAD
 <br>
+=======
+>>>>>>> f3276e8d1cac860dfe4eb7dbc9029553ad25d627
 
 <!-- Connect -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Connect With Me
 
+<<<<<<< HEAD
 <p align="center">
   <a href="https://www.linkedin.com/in/djeidmohcen/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -64,6 +74,31 @@ const mohcen = {
 
 <br>
 
+=======
+
+
+
+# 💫 About Me:
+👋 Hi, I'm a Software Engineering student & Full-Stack Developer<br>🔭 Founder of Trivia Spirit — a full-stack trivia web game {triviaspirit.com}<br>👯 Open to collaboration on web & SaaS pr[...]
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djeidmohcen/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:djeidmohcen8@gmail.com) 
+
+
+
+
+<!-- Languages & Tools -->
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,php,cs" /><br>
+  <img src="https://skillicons.dev/icons?i=django,react,nextjs,tailwind,bootstrap,materialui" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,wordpress,mysql,postgres,docker" /><br>
+</div>
+
+<br/>
+>>>>>>> f3276e8d1cac860dfe4eb7dbc9029553ad25d627
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
