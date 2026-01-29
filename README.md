@@ -18,8 +18,7 @@
     <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Mohcen56?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 </div>
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
 
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
