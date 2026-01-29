@@ -146,8 +146,7 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,12,18,20,24&height=120&section=footer"/>
+
 
 <!-- Quote -->
 <p align="center">
@@ -159,5 +158,6 @@
 <p align="center">
   <i>✨ Let's build something amazing together! ✨</i>
 </p>
-
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,12,18,20,24&height=120&section=footer"/>
 
