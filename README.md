@@ -1,5 +1,5 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohcen%20Djeid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,12,18,20,24&height=180&section=header&text=Mohcen%20Djeid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -9,58 +9,50 @@
 </p>
 
 <!-- Badges -->
-<p align="center">
-  <a href="https://github.com/Mohcen56">
-    <img src="https://komarev.com/ghpvc/?username=Mohcen56&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Mohcen56?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Mohcen56?style=for-the-badge&logo=github&color=f97316&labelColor=1c1917" alt="Stars" />
-  </a>
-  <a href="https://github.com/Mohcen56?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mohcen56?style=for-the-badge&logo=github&color=6366f1&labelColor=1c1917" alt="Followers" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://github.com/Mohcen56" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Mohcen56&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+  <a href="https://github.com/Mohcen56?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Mohcen56?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+  <a href="https://github.com/Mohcen56?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Mohcen56?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
+</div>
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```javascript
-const mohcen = {
-    role: "Full-Stack Developer & Software Engineering Student",
-    location: "🌍 Building from anywhere",
-    currentFocus: "Web Development & SaaS Products",
-    funFact: "I turn ☕ into <code/>",
-    
-    askMeAbout: ["Web Dev", "React", "Next.js", "Django", "SaaS"],
-    
-    currentlyLearning: ["Cloud Architecture", "System Design"],
-    
-    projects: {
-        featured: "Trivia Spirit — Full-stack trivia web game",
-        website: "triviaspirit.com"
-    }
-};
-```
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+👋 Hey there! I'm **Mohcen Djeid**
+
+🎓 **Software Engineering Student** passionate about building things
+
+💻 **Full-Stack Developer** specializing in web & SaaS products
+
+🚀 **Founder** of [Trivia Spirit](https://triviaspirit.com) — a full-stack trivia web game
+
+🌱 Currently diving deep into **Cloud Architecture** & **System Design**
+
+💬 Ask me about **React, Next.js, Django, TypeScript**
+
+⚡ Fun fact: I turn ☕ into `<code/>`
+
+<br clear="right"/>
 
 <br>
 
 <!-- Connect -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/djeidmohcen/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:djeidmohcen8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Mohcen56">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
+  <a href="mailto:djeidmohcen8@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/djeidmohcen" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@mogen_tech?si=rEy0J4ncMba-8M4K" target="_blank"><img width="57px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
+  <a href="#"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/instagram.png" alt="Instagram" /></a>
+</div>
 
 <br>
 
@@ -113,39 +105,42 @@ const mohcen = {
 <br>
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Mohcen56">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohcen56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohcen56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohcen56&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=5e81ac&icon_color=bf616a&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohcen56&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=5e81ac&text_color=c9d1d9"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Mohcen56">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Mohcen56&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=f97316&currStreakLabel=6366F1"/>
+    <img src="https://streak-stats.demolab.com/?user=Mohcen56&theme=nord&hide_border=true&background=0D1117&stroke=5e81ac&ring=bf616a&fire=bf616a&currStreakLabel=5e81ac"/>
   </a>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/Mohcen56">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohcen56&bg_color=0d1117&color=6366f1&line=6366f1&point=f97316&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohcen56&bg_color=0d1117&color=5e81ac&line=bf616a&point=5e81ac&area=true&hide_border=true" />
   </a>
 </p>
 
 <br>
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- Trophies -->
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/Mohcen56">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohcen56&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Mohcen56&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
   </a>
 </p>
 
@@ -157,7 +152,7 @@ const mohcen = {
 </p>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,12,18,20,24&height=120&section=footer"/>
 
 <!-- Quote -->
 <p align="center">
