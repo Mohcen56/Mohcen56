@@ -60,42 +60,42 @@
 
 <table align="left" width="100%">
 <tr>
-  <td align="center" width="180">
+  <td align="center" width="220">
     <strong>Languages</strong>
   </td>
-  <td align="center" width="600">
+  <td align="center" width="500">
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,cs&theme=dark" />
   </td>
 </tr>
 <tr>
-  <td align="center" width="180">
+  <td align="center" width="220">
     <strong>Frontend</strong>
   </td>
-  <td align="center" width="600">
+  <td align="center" width="500">
     <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
   </td>
 </tr>
 <tr>
-  <td align="center" width="180">
+  <td align="center" width="220">
     <strong>Backend</strong>
   </td>
-  <td align="center" width="600">
+  <td align="center" width="500">
     <img src="https://skillicons.dev/icons?i=django,nodejs,express&theme=dark" />
   </td>
 </tr>
 <tr>
-  <td align="center" width="180">
+  <td align="center" width="220">
     <strong>Database</strong>
   </td>
-  <td align="center" width="600">
+  <td align="center" width="500">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
   </td>
 </tr>
 <tr>
-  <td align="center" width="180">
+  <td align="center" width="220">
     <strong>Tools</strong>
   </td>
-  <td align="center" width="600">
+  <td align="center" width="500">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode&theme=dark" />
   </td>
 </tr>
