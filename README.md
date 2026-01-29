@@ -117,11 +117,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Mohcen56">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohcen56&theme=nord&hide_border=true&background=0D1117&stroke=5e81ac&ring=bf616a&fire=bf616a&currStreakLabel=5e81ac"/>
-  </a>
-</p>
+
 
 <!-- Activity Graph -->
 <p align="center">
