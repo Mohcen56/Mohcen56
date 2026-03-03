@@ -64,7 +64,7 @@
     <strong>Languages</strong>
   </td>
   <td align="center" width="500">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,cs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java&theme=dark" />
   </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@
     <strong>Backend</strong>
   </td>
   <td align="center" width="500">
-    <img src="https://skillicons.dev/icons?i=django,nodejs,express&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=django,nodejs,express,nestjs&theme=dark" />
   </td>
 </tr>
 <tr>
