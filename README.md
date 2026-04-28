@@ -1,6 +1,6 @@
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,12,18,20,24&height=180&section=header&text=Mohcen%20Djeid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
+ 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Mohcen56">
