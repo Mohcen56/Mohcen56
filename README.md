@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Building+Web+%26+SaaS+Products+%F0%9F%9A%80;Always+Learning+New+Technologies+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
-
 <!-- Badges -->
 <div align="center">
   <a href="https://github.com/Mohcen56" target="_blank">
