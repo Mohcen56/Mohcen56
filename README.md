@@ -101,29 +101,11 @@
 
 <br>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Mohcen56">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohcen56&show_icons=true&include_all_commits=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=5e81ac&icon_color=bf616a&text_color=c9d1d9" alt="Mohcen's GitHub statistics" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohcen56&layout=compact&langs_count=8&theme=nord&hide_border=true&bg_color=0D1117&title_color=5e81ac&text_color=c9d1d9" alt="Mohcen's most used programming languages" />
-  </a>
-</p>
 
 
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/Mohcen56">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohcen56&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Mohcen's GitHub contribution graph" />
-  </a>
-</p>
 
-<br>
+
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
