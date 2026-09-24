@@ -26,17 +26,17 @@
 
 👋 Hey there! I'm **Mohcen Djeid**
 
-🎓 **Software Engineering ** passionate about building things
+🎓  I'm**Software Engineer graduate** passionate about building things
 
 💻 **Full-Stack Developer** specializing in web & SaaS products
 
 🚀 **Founder** of [Trivia Spirit](https://triviaspirit.com) — a full-stack trivia web game
 
+💬 I work mainly with **TypeScript, Next.js, NestJS, and PostgreSQL**. I also have experience with **Python and Django***
+
 🌱 Currently diving deep into **Cloud Architecture** & **System Design**
 
-💬 Ask me about **React, Next.js, Django, TypeScript**
-
-⚡ Fun fact: I turn ☕ into `<code/>`
+🌐Want a better look at what my work? Explore [my portfolio](https://www.mohcen.dev) for more details and a smoother way to browse my work.
 
 <br clear="right"/>
 
@@ -49,8 +49,7 @@
   <a href="mailto:djeidmohcen8@gmail.com"><img width="55px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/djeidmohcen" target="_blank"><img width="55px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://youtube.com/@mogen_tech?si=rEy0J4ncMba-8M4K" target="_blank"><img width="57px" src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/icons/youtube-red1.png" alt="YouTube" /></a>
-  <a href="#"><img width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="Instagram" /></a>
-</div>
+ 
 
 <br>
 
@@ -110,8 +109,8 @@
 
 <p align="center">
   <a href="https://github.com/Mohcen56">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohcen56&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=5e81ac&icon_color=bf616a&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohcen56&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=5e81ac&text_color=c9d1d9"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohcen56&show_icons=true&include_all_commits=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=5e81ac&icon_color=bf616a&text_color=c9d1d9" alt="Mohcen's GitHub statistics" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohcen56&layout=compact&langs_count=8&theme=nord&hide_border=true&bg_color=0D1117&title_color=5e81ac&text_color=c9d1d9" alt="Mohcen's most used programming languages" />
   </a>
 </p>
 
@@ -120,7 +119,7 @@
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/Mohcen56">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohcen56&bg_color=0d1117&color=5e81ac&line=bf616a&point=5e81ac&area=true&hide_border=true" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohcen56&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Mohcen's GitHub contribution graph" />
   </a>
 </p>
 
