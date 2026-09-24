@@ -26,7 +26,7 @@
 
 👋 Hey there! I'm **Mohcen Djeid**
 
-🎓 **Software Engineering Student** passionate about building things
+🎓 **Software Engineering ** passionate about building things
 
 💻 **Full-Stack Developer** specializing in web & SaaS products
 
