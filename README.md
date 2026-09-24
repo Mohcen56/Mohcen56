@@ -4,7 +4,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Mohcen56">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Software+Engineering+Student+%F0%9F%8E%93;Building+Web+%26+SaaS+Products+%F0%9F%9A%80;Always+Learning+New+Technologies+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Software+Engineering+Graduate+%F0%9F%8E%93;Building+Web+%26+SaaS+Products+%F0%9F%9A%80;Always+Learning+New+Technologies+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 <!-- Badges -->
@@ -26,13 +26,13 @@
 
 👋 Hey there! I'm **Mohcen Djeid**
 
-🎓  I'm**Software Engineer graduate** passionate about building things
+🎓 I'm a **Software Engineering graduate** passionate about building products.
 
 💻 **Full-Stack Developer** specializing in web & SaaS products
 
 🚀 **Founder** of [Trivia Spirit](https://triviaspirit.com) — a full-stack trivia web game
 
-💬 I work mainly with **TypeScript, Next.js, NestJS, and PostgreSQL**. I also have experience with **Python and Django***
+💬 I work mainly with **TypeScript, Next.js, NestJS, and PostgreSQL**. I also have experience with **Python and Django**
 
 🌱 Currently diving deep into **Cloud Architecture** & **System Design**
 
@@ -139,10 +139,7 @@
 
 <br>
 
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+
 
 
 
